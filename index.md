@@ -1,4 +1,4 @@
-# CLEF 2023 SimpleText Track
+# CLEF 2024 SimpleText Track
 
 ---
 

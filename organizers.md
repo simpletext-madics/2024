@@ -43,6 +43,8 @@ Dennis Davari, Faculty of Engineering, Kiel University (Kiel, Germany)
 
 [Hamed Babaei Giglou](https://scholar.google.com/citations?user=Sehm6tMAAAAJ&hl=en), Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (Hannover, Germany)
 
+[Yue Zhang](https://frcchang.github.io/), School of Engineering, Westlake University (Hangzhou, China)
+
 ## Other organizers and partners
 
 * Irina Ovchinnikova (ManPower Language Solution, Israel)

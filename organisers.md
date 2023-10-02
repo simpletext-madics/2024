@@ -36,6 +36,13 @@
 
 Dennis Davari, Faculty of Engineering, Kiel University (Kiel, Germany)
 
+### Task 4 (SOTA: Tracking the state-of-the-art in scholarly publications) chairs
+[Jennifer D'Souza](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-and-digital-libraries/staff/jennifer-dsouza), Data Science and Digital Libraries group, TIB (Hannover, Germany)
+
+[Salomon Kabongo](https://skabongo.github.io/), Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (Hannover, Germany)
+
+[Hamed Babaei Giglou](https://scholar.google.com/citations?user=Sehm6tMAAAAJ&hl=en), Faculty of Electrical Engineering and Computer Science, Leibniz University Hannover (Hannover, Germany)
+
 ## Other organizers and partners
 
 * Irina Ovchinnikova (ManPower Language Solution, Israel)

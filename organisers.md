@@ -1,4 +1,4 @@
-# SimpleText@CLEF-2023 organizers
+# SimpleText@CLEF-2024 organizers
 
 ---
 

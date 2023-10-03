@@ -35,11 +35,11 @@ SimpleText is supported by the French research network on Big Data - Data Scienc
 
 ## References  
 
-- Ermakova, L., SanJuan, E., Huet, S., Azarbonyad, H., Augereau, O., Kamps, J. (2023). Overview of the CLEF 2023 SimpleText Lab: Automatic Simplification of Scientific Texts. Proceeding of CLEF’23, LNCS, Springer
-- Ermakova, Liana, Eric SanJuan, Stephane Huet, Olivier Augereau, Hosein Azarbonyad, and Jaap Kamps. “CLEF 2023 SimpleText Track: What Happens If General Users Search Scientific Texts?” ECIR 2023 Proceedings
-- [Éric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova *Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary*](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf)
-- [Liana Ermakova, Hosein Azarbonyad, Sarah Bertin, Olivier Augereau *Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation*](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-239.pdf)
-- [Liana Ermakova, Sarah Bertin, Helen McCombie, Jaap Kamps *Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts*](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-240.pdf)
+- L. Ermakova, E. SanJuan, S. Huet, H. Azarbonyad, O. Augereau, J. Kamps. "Overview of the CLEF 2023 SimpleText Lab: Automatic Simplification of Scientific Texts." Proceeding of CLEF’23, LNCS, Springer
+- L. Ermakova, E. SanJuan, S. Huet, O. Augereau, H. Azarbonyad, and J. Kamps. "CLEF 2023 SimpleText Track: What Happens If General Users Search Scientific Texts?” ECIR 2023 Proceedings
+- [É. Sanjuan, S. Huet, J. Kamps, L. Ermakova. "Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary."](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf)
+- [L. Ermakova, H. Azarbonyad, S. Bertin, O. Augereau. "Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation."](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-239.pdf)
+- [L. Ermakova, S. Bertin, H. McCombie, J. Kamps. "Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts."](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-240.pdf)
 
 ---
 

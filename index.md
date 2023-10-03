@@ -22,7 +22,7 @@ The track has the following four concrete tasks.
 - [Task 4](./tasks): SOTA? Given an AI paper which reports model performances on benchmark datasets, extract all related information (task, dataset, metric, score).
 
 ## How to participate
-In order to participate, you should sign up at the [CLEF](https://clef2024.clef-initiative.eu/index.php) website. The registration opens on November 13 2023.
+In order to participate, you should sign up at the [CLEF](https://clef2024.clef-initiative.eu/index.php) website. The registration opens on 13th November 2023.
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
@@ -35,11 +35,11 @@ SimpleText is supported by the French research network on Big Data - Data Scienc
 
 ## References  
 
-- Ermakova, Liana, Patrice Bellot, Jaap Kamps, Diana Nurbakova, Irina Ovchinnikova, Eric SanJuan, Elise Mathurin, Radia Hannachi, Stephane Huet, and Silvia Araujo. “Overview of the CLEF 2022 SimpleText Lab: Automatic Simplification of Scientific Texts.”  Proceedings of CLEF 2022
+- Ermakova, L., SanJuan, E., Huet, S., Azarbonyad, H., Augereau, O., Kamps, J. (2023). Overview of the CLEF 2023 SimpleText Lab: Automatic Simplification of Scientific Texts. Proceeding of CLEF’23, LNCS, Springer
 - Ermakova, Liana, Eric SanJuan, Stephane Huet, Olivier Augereau, Hosein Azarbonyad, and Jaap Kamps. “CLEF 2023 SimpleText Track: What Happens If General Users Search Scientific Texts?” ECIR 2023 Proceedings
-- [https://ceur-ws.org/Vol-3180/paper-235.pdf](https://ceur-ws.org/Vol-3180/paper-235.pdf)
-- [https://ceur-ws.org/Vol-3180/paper-236.pdf](https://ceur-ws.org/Vol-3180/paper-236.pdf)
-- [https://ceur-ws.org/Vol-3180/paper-237.pdf](https://ceur-ws.org/Vol-3180/paper-237.pdf)
+- [Éric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova *Overview of the CLEF 2023 SimpleText Task 1: Passage Selection for a Simplified Summary*](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-238.pdf)
+- [Liana Ermakova, Hosein Azarbonyad, Sarah Bertin, Olivier Augereau *Overview of the CLEF 2023 SimpleText Task 2: Difficult Concept Identification and Explanation*](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-239.pdf)
+- [Liana Ermakova, Sarah Bertin, Helen McCombie, Jaap Kamps *Overview of the CLEF 2023 SimpleText Task 3: Simplification of Scientific Texts*](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-240.pdf)
 
 ---
 
@@ -47,5 +47,4 @@ SimpleText is supported by the French research network on Big Data - Data Scienc
 <div align="center">
  <a href="https://anr.fr/Projet-ANR-22-CE23-0019"><img src="../img/ANR-logo-2021-complet.jpg" height="120"></a>
  <a href="https://www.madics.fr/actions/simpletext/"><img src="../img/Logo-CNRS-MaDICS.jpg" height="120"></a>
- <a href="https://clef2023.clef-initiative.eu/index.php"><img src="../img/logo-CLEF-2023.png" height="120"></a>
 </div>

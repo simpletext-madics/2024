@@ -69,4 +69,4 @@ The goal of this task is to provide a simplified version of text passages. Parti
 
 ## Task 4: SOTA: Tracking the state-of-the-art in scholarly publications
 
-Leaderboards are like scoreboards that display top AI model results for specific tasks, datasets, and metrics. Traditionally community-curated, as seen on paperswithcode.com, text mining could speed up their creation. The goal is to develop systems that recognize if an incoming AI paper reports model performances on benchmark datasets. If it does, the model should extract all related (Task, Dataset, Metric, Score) tuples that are reported in the work.
+Leaderboards are like scoreboards that display top AI model results for specific tasks, datasets, and metrics. Traditionally community-curated, as seen on paperswithcode.com, text mining could speed up their creation. The goal is to develop systems that recognize if an incoming AI paper reports model performances on benchmark datasets. If it does, the model should extract all related (task, dataset, metric, score) tuples that are reported in the work.

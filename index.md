@@ -13,12 +13,13 @@
 ## SimpleText: Automatic Simplification of Scientific Texts
 
 The general public tends to avoid reliable sources such as scientific literature due to their complex language and lacking background knowledge. Instead, they rely on shallow and derived sources on the web and in social media - often published for commercial or political incentives, rather than informational value. Can text simplification help to remove some of these access barriers? The SimpleText track is a part of the CLEF initiative which promotes the systematic evaluation of information access systems, primarily through experimentation on shared tasks. SimpleText addresses the challenges of text simplification approaches in the context of promoting scientific information access, by providing appropriate data and benchmarks. The track uses a corpus of scientific literature abstracts and popular science requests. Our overall use case is to create a simplified summary of multiple scientific documents based on a popular science query which provides a user with an accessible overview of this specific topic.  
-The track has the following three concrete tasks.
+The track has the following four concrete tasks.
  
 ## [Tasks](./tasks)
 - [Task 1](./tasks): What is in (or out)? Selecting passages to include in a simplified summary.
 - [Task 2](./tasks): What is unclear? Difficult concept identification and explanation (definitions, abbreviation deciphering, context, applications,..).
 - [Task 3](./tasks): Rewrite this! Given a query, simplify passages from scientific abstracts.
+- [Task 4](./tasks): SOTA? Given an AI paper which reports model performances on benchmark datasets, extract all related information (task, dataset, metric, score).
 
 ## How to participate
 In order to participate, you should sign up at the [CLEF](https://clef2023.clef-initiative.eu/index.php) website: [http://clef2023-labs-registration.dei.unipd.it/](http://clef2023-labs-registration.dei.unipd.it/). 

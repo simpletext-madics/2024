@@ -22,7 +22,7 @@ The track has the following four concrete tasks.
 - [Task 4](./tasks): SOTA? Given an AI paper which reports model performances on benchmark datasets, extract all related information (task, dataset, metric, score).
 
 ## How to participate
-In order to participate, you should sign up at the [CLEF](https://clef2023.clef-initiative.eu/index.php) website: [http://clef2023-labs-registration.dei.unipd.it/](http://clef2023-labs-registration.dei.unipd.it/). 
+In order to participate, you should sign up at the [CLEF](https://clef2024.clef-initiative.eu/index.php) website. The registration opens on November 13 2023.
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 

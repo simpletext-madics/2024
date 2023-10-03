@@ -6,7 +6,6 @@
 
 ---
 
-
 * **13 November 2023**: Registration opens
 * **22 April 2024**: Registration closes
 * **6 May 2024**: End of Evaluation Cycle [submission of runs]

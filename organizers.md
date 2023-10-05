@@ -15,7 +15,7 @@
 
 [Stéphane Huet](https://cv.archives-ouvertes.fr/shuet), Laboratoire Informatique d’Avignon, Institute of Technology of Avignon (Avignon, France)
 
-[Jaap Kamps](https://e.humanities.uva.nl/), Faculty of Humanities, University of Amsterdam (Amsterdam, The Netherlands)
+[Jaap Kamps](https://e.humanities.uva.nl/), Institute for Logic, Language and Computation, University of Amsterdam (Amsterdam, The Netherlands)
 
 ### Task 2 (Complexity Spotting: Identifying and explaining difficult concepts for general audience) chairs
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), HCTI, University of Western Brittany (Brest, France)
@@ -31,7 +31,7 @@
 
 [Federica Vezzani](https://www.dei.unipd.it/~vezzanif/), Department of Linguistic and Literary Studies, University of Padova (Padova, Italy)
 
-[Jaap Kamps](https://e.humanities.uva.nl/), Faculty of Humanities, University of Amsterdam (Amsterdam, The Netherlands)
+[Jaap Kamps](https://e.humanities.uva.nl/), Institute for Logic, Language and Computation, University of Amsterdam (Amsterdam, The Netherlands)
 
 Dennis Davari, Faculty of Engineering, Kiel University (Kiel, Germany)
 

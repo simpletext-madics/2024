@@ -48,8 +48,8 @@ Dennis Davari, Kiel University, Germany
 
 ## Other organizers and partners
 
-* Irina Ovchinnikova (ManPower Language Solution, Israel)
-* Diana Nurbakova (INSA Lyon, France)
-* Sílvia Araújo (University of Minho, Portugal)
-* Radia Hannachi (University of South Brittany, France)
-* Helen McCombie (University of Western Brittany, France)
+* [Irina Ovchinnikova](https://independent.academia.edu/OvchinnikovaIrina), ManPower Language Solution, Israel
+* [Diana Nurbakova](https://liris.cnrs.fr/en/member-page/diana-nurbakova), INSA Lyon, France
+* [Sílvia Araújo](https://www.researchgate.net/profile/Silvia-Araujo-2), University of Minho, Portugal
+* [Radia Hannachi](https://cv.hal.science/radia-hannachi), Université Bretagne Sud, France
+* [Helen McCombie](https://www.linkedin.com/in/helen-mccombie-a7a2176a/?originalSubdomain=fr), Université de Bretagne Occidentale, France

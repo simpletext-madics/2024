@@ -44,6 +44,8 @@ Dennis Davari, Kiel University, Germany
 
 [Yue Zhang](https://www.researchgate.net/profile/Yue-Zhang-231), Technische Universität Berlin, Germany
 
+[Sören Auer](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/data-science-and-digital-libraries/mitarbeiterinnen-und-mitarbeiter/soeren-auer), TIB Leibniz Information Centre for Science and Technology, Hannover, Germany
+
 ## Other organizers and partners
 
 * Irina Ovchinnikova (ManPower Language Solution, Israel)

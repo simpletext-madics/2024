@@ -14,7 +14,7 @@ The data will be made available to all registered participants.
 
 ## Task 1: Content Selection: Selecting passages to include in a simplified summary
 
-Given a popular science article from a major international newspaper, this task aims at retrieving all passages that would be relevant for this article, from a large corpus of scientific abstracts and bibliographic metadata. Relevant passages should relate to any of the topics in the source article. Relevant abstracts should relate to any of the topics in the source article. These passages can be complex and require further simplification to be carried out in tasks 2 and 3. Task 1 focuses on content retrieval. 
+Given a popular science article targeted to a general audience, this task aims at retrieving passages, which can help to understand this article, from a large corpus of academic abstracts and bibliographic metadata. Relevant passages should relate to any of the topics in the source article. These passages can be complex and require further simplification to be carried out in tasks 2 and 3. Task 1 focuses on content retrieval.
 
 ### Corpus: DBLP + abstracts
 We use the Citation Network Dataset: 

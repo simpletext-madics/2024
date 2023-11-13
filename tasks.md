@@ -12,7 +12,7 @@ All team members should join the SimpleText mailing list:
 
 The data will be made available to all registered participants.
 
-## Task 1: Content Selection: Selecting passages to include in a simplified summary
+## Task 1: Retrieving passages to include in a simplified summary
 
 Given a popular science article targeted to a general audience, this task aims at retrieving passages, which can help to understand this article, from a large corpus of academic abstracts and bibliographic metadata. Relevant passages should relate to any of the topics in the source article. These passages can be complex and require further simplification to be carried out in tasks 2 and 3. Task 1 focuses on content retrieval.
 

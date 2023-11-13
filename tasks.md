@@ -16,41 +16,15 @@ The data will be made available to all registered participants.
 
 Given a popular science article targeted to a general audience, this task aims at retrieving passages, which can help to understand this article, from a large corpus of academic abstracts and bibliographic metadata. Relevant passages should relate to any of the topics in the source article. These passages can be complex and require further simplification to be carried out in tasks 2 and 3. Task 1 focuses on content retrieval.
 
-### Corpus: DBLP + abstracts
-We use the Citation Network Dataset: 
-- DBLP+Citation
-- ACM Citation network, the 12th version released in 2020: [https://www.aminer.org/citation](https://www.aminer.org/citation)
+### Data
+We use popular science articles as a source for the types of topics the general public is interested in and as a validation of the reading level that is suitable for them. The main corpus is a large set of scientific abstracts plus associated metadata covering the field of computer science and engineering. We reuse the collection of academic abstracts from the Citation Network Dataset ([12th version released in 2020](https://www.aminer.cn/citation). This collection was extracted from DBLP, ACM, MAG (Microsoft Academic Graph), and other sources. It includes, in particular, 4,232,520 abstracts in English, published be-
+fore 2020. Search requests are based on popular press articles targeted to a general audience, based on The Guardian and Tech Xplore. Each of these popular science articles represents a general topic that has to be analyzed to retrieve relevant scientific information from the corpus.
 
-An ElasticSearch index is provided to participants with access through an API. A JSON dump of the index is also available for participants.
-
-### Queries
-Topics are a selection of press articles from the Science section of The Guardian and Tech Xplore, enriched with queries manually extracted from the content of the article. It has been checked that at least 5 relevant abstracts can be found for each query.
+We provide the URLs to original articles, the title, and the textual content of each popular science article as a general topic. Each general topic was also enriched with one or more specific keyword queries manually extracted from their content, creating a familiar information retrieval task ranking passages or abstracts in response to a query. Available training data from 2023 includes 29 (train) and 34 (test) queries, with the later set having an extensive recall base due to the large number of submissions in 2023. In 2024, we will extend this test collection with additional test queries.
 
 ### Evaluation
-**Topical relevance**: 
-Retrieval effectiveness will be evaluated on:
-
-- Topic **relevance**: 
-  - Not relevant (0)
-  - Relevant (1)
-  - Highly relevant (2)
-
-We will use traditional IR measures to evaluate the effectiveness (NDCG@10, MAP, ...).
-
-**Additional measures**: 
-We plan to assess additional (non-topical relevance) aspects: 
-
-- Text **complexity**:
-  - Easy (0)
-  - Difficult (1)
-  - Very difficult (2)
-- Source **credibility**: 
-  - Low (0)
-  - Medium (1)
-  - High credibility (2)
-
-We plan to provide additional evaluation scores based on these aspects.
-
+Topical relevance was evaluated last year with a 0-2 score on the relevance degree towards the content of the original article. In 2023, we provided an initial analysis of text complexity (based on readability measures) and authoritativeness (based on academic impact measures). In 2024, we plan to provide additional evaluation measures on both topical relevance and complexity/credibility. While these criteria can provide
+different levels of comparison between systems, we will continue to provide standard ranking scores based on NDCG.
 
 ## Task 2: Complexity Spotting: Identifying and explaining difficult concepts for general audience
 

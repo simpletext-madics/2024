@@ -18,7 +18,7 @@ The track has the following four concrete tasks.
 - [Task 1](./tasks): What is in (or out)? Selecting passages to include in a simplified summary.
 - [Task 2](./tasks): What is unclear? Difficult concept identification and explanation (definitions, abbreviation deciphering, context, applications,..).
 - [Task 3](./tasks): Rewrite this! Given a query, simplify passages from scientific abstracts.
-- [Task 4](./tasks): SOTA? Given an AI paper which reports model performances on benchmark datasets, extract all related information (task, dataset, metric, score).
+- [Task 4](./tasks): SOTA? Given an AI paper which reports model performances on benchmark datasets, extract all related information (task, dataset, metric, score). Please visit the [Task 4 website](https://sites.google.com/view/simpletext-sota/home) for information on registration, how to participate, task timelines, and dataset download links.
 
 ## How to participate
 In order to participate, you should sign up at the [CLEF](https://clef2024.clef-initiative.eu/index.php) website. The registration opens on 13th November 2023.
@@ -30,8 +30,7 @@ The data will be made available to all registered participants.
 
 ## Acknowledgement  
 
-SimpleText is supported by the French research network on Big Data - Data Science [MADICS](https://www.madics.fr/). This research was funded, in whole or in part, by the French National Research Agency (ANR) under the project [ANR-22-CE23-0019-01](https://anr.fr/Project-ANR-22-CE23-0019).
-
+SimpleText is supported by the French research network on Big Data - Data Science [MADICS](https://www.madics.fr/). This research was funded, in whole or in part, by the French National Research Agency (ANR) under the project [ANR-22-CE23-0019-01](https://anr.fr/Project-ANR-22-CE23-0019). SimpleText's SOTA Task is jointly supported by the [NFDI4DataScience initiative](https://www.nfdi4datascience.de/) (DFG, German Research Foundation, Grant ID: 460234259) and the [SCINEXT project](https://scinext-project.github.io/) (BMBF, German Federal Ministry of Education and Research, Grant ID: 01lS22070)
 ## References  
 
 - L. Ermakova, E. SanJuan, S. Huet, H. Azarbonyad, O. Augereau, J. Kamps. "Overview of the CLEF 2023 SimpleText Lab: Automatic Simplification of Scientific Texts." Proceeding of CLEF’23, LNCS, Springer

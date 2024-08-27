@@ -83,7 +83,7 @@ Dina Demner-Fushman (NIH), and Hoa Dang (NIST).  Details of the track are on the
 
 ### SimpleText Session 4 (ROOM 4)
 
-* **16:40 - 18:00** SimpleText (and Joker) 2025 planning session:
+* **16:40 - 18:00** SimpleText (and JOKER) 2025 planning session:
     * We want to hear from *you*!
     * What was great about 2024, and what could we improve for you?
     * Any ideas or volunteers are welcome!

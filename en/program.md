@@ -67,7 +67,7 @@ _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Ar
 
 ### SimpleText Session 3 (ROOM 5)
 
-* **11:10 - 11:55** Invited talk by **Brian Ondov** (University of Padua) _"TREC 2024 PABLA: Plain Language Adaptation of Biomedical Abstracts"_ ([Slides](XXX)): 
+* **11:10 - 11:55** Invited talk by **Brian Ondov** (NIH/Yale) _"TREC 2024 PABLA: Plain Language Adaptation of Biomedical Abstracts"_ ([Slides](XXX)): 
 
 > **Abstract**: The goal of the new TREC 2024 PLABA track is to improve health literacy by adapting biomedical abstracts for the general public using plain language.   The track is coordinated by 
 Brian Ondov (NIH), 

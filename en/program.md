@@ -21,7 +21,8 @@ SimpleText Sessions takes place in **ROOM 5** except for the plenary track overv
 
 ### CONFERENCE Session 1 NLU and Document Analysis (ROOM 1) 
 
-* **10:00 - 10:20**  Andrianos Michail, Pascal Severin Andermatt and Tobias Fankhauser, _Scientific Text Simplification Using Multi-Prompt Minimum Bayes Risk Decoding_ (SimpleText Best of Labs in CLEF 2023, [Paper](XXX)).
+* **10:00 - 10:20**  Andrianos Michail, Pascal Severin Andermatt and Tobias Fankhauser, _Scientific Text Simplification Using Multi-Prompt Minimum Bayes Risk Decoding_ (SimpleText Best of Labs in CLEF 2023), in:
+Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX)).
 
 ### Lab Overviews 1 (ROOM 1)
 * **11:10 - 12:40**	Lab Overviews [Room 1]: LifeCLEF, Touché, eRisk, BioASQ, **SimpleText**
@@ -112,7 +113,14 @@ _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_
         * New data/tasks/setup in 2025?
         * Active interest to revisit a particular 2024 task?
         * ???
-      
+
+## Wednesday 11th September
+
+### Conference Session 3 (ROOM 1): Datasets
+
+* **10:00-10:20** **Artemis Capari**, Hosein Azarbonyad, Georgios Tsatsaronis, Jaap Kamps, Zubair Afzal and Judson Dunham, _KAPR: A dataset for Evaluation of Ranking Models for a Knowledge Acquisition Passage Retrieval Task_ (Conference paper related to SimpleText Task 1), in:
+Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX)). 
+
 ## Thursday 12th September
 
 ### Closing and Introduction of CLEF 2025 (Room 1)

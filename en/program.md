@@ -1,5 +1,7 @@
 # SimpleText@CLEF-2024 Program
 
+{% include navbar.md %}
+
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
 [Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
 
@@ -8,20 +10,19 @@
 * [CLEF 2024 registration](https://clef2024.clef-initiative.eu/index.php?page=Pages/conference_registration.html)
 * [CLEF 2024 program](https://clef2024.clef-initiative.eu/index.php?page=Pages/programme.html)
 * [CLEF 2024 LNCS Proceedings, Vol I](https://link.springer.com/book/9783031717352)
+* DOI [CLEF 2024 LNCS Proceedings, Vol I](https://link.springer.com/book/10.1007/978-3-031-71735-2)
 * [CLEF 2024 LNCS Proceedings, Vol II](https://link.springer.com/book/9783031719073)
+* DOI [CLEF 2024 LNCS Proceedings, Vol II](https://link.springer.com/book/10.1007/978-3-031-71908-0)
 * [CLEF 2024 Working Notes](https://ceur-ws.org/Vol-3740/)
-<!-- Not working yet...
-* [CLEF 2024 LNCS Proceedings, Vol I](https://link.springer.com/book/10.1007/978-3-031-71735-2)
-* [CLEF 2024 LNCS Proceedings, Vol II](https://link.springer.com/book/10.1007/978-3-031-71908-0) 
--->
+  
 ------------------------------------------------------------
 ## Monday 9th September 
 
-SimpleText Sessions takes place in **ROOM 5** except for the lab overviews.
+SimpleText Sessions takes place in **ROOM 5** except for the plenary track overviews.
 
 ### CONFERENCE Session 1 NLU and Document Analysis (ROOM 1) 
 
-* **10:10 - 10:20**  Andrianos Michail, Pascal Severin Andermatt and Tobias Fankhauser, _Scientific Text Simplification Using Multi-Prompt Minimum Bayes Risk Decoding_ (SimpleText Best of Labs in CLEF 2023, [Paper](XXX)).
+* **10:00 - 10:20**  Andrianos Michail, Pascal Severin Andermatt and Tobias Fankhauser, _Scientific Text Simplification Using Multi-Prompt Minimum Bayes Risk Decoding_ (SimpleText Best of Labs in CLEF 2023, [Paper](XXX)).
 
 ### Lab Overviews 1 (ROOM 1)
 * **11:10 - 12:40**	Lab Overviews [Room 1]: LifeCLEF, Touché, eRisk, BioASQ, **SimpleText**

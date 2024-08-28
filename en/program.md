@@ -54,13 +54,26 @@ _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Ar
 
 ### SimpleText Session 2 (ROOM 5)
 
-* **16:30 - 18:00** CLEF 2024 Participant presentations (n+5 minutes).
+* **16:30 - 18:00** CLEF 2024 Participant presentations (10+5 minutes).
+
+* Jan Bakker, Göksenin Yüksel, Jaap Kamps
+_University of Amsterdam at the CLEF 2024 SimpleText Track_, 3182-3194
+([Paper](https://ceur-ws.org/Vol-3740/paper-310.pdf)).
+
+* Artemis Capari, Hosein Azarbonyad, Zubair Afzal, Georgios Tsatsaronis
+_Enhancing Scientific Document Simplification through Adaptive Retrieval and Generative Models_, 3206-3229
+([Paper](https://ceur-ws.org/Vol-3740/paper-312.pdf)).
+
+* Giorgio Maria Di Nunzio, Elena Gallina, Federica Vezzani
+_UNIPD@SimpleText2024: A Semi-Manual Approach on Prompting ChatGPT for Extracting Terms and Write Terminological Definitions_, 3230-3237
+([Paper](https://ceur-ws.org/Vol-3740/paper-313.pdf)).
+
+* Benjamin Vendeville, Liana Ermakova, Pierre De Loor
+_UBO NLP Report on the SimpleText track at CLEF 2024_, 3317-3340
+([Paper](https://ceur-ws.org/Vol-3740/paper-321.pdf)).
 
 * Tbd
-* Tbd
-* Tbd
-* Tbd
-* Tbd
+  
 * Tbd
   
 ## Tuesday 10th September 
@@ -75,13 +88,21 @@ Dina Demner-Fushman (NIH), and Hoa Dang (NIST).  Details of the track are on the
 
 > **Bio**: XXX
 
-* **11:55-12:40** CLEF 2024 Participant presentations (n+5 minutes).
+* **11:55-12:40** CLEF 2024 Participant presentations (10+5 minutes).
+
+* Syed Muhammad Ali, Hammad Sajid, Owais Aijaz, Owais Waheed, Faisal Alvi, Abdul Samad
+_Team Sharingans at SimpleText: Fine-tuned LLM based approach to Scientific Text Simplification_, 3174-3181
+([Paper](https://ceur-ws.org/Vol-3740/paper-309.pdf)).
+
+* Moritz Staudinger, Alaa El-Ebshihy, Annisa Maulida Ningtyas, Florina Piroi, Allan Hanbury
+_AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_, 3300-3316
+([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf)).
 
 * Tbd
-* Tbd
-* Tbd
-
+  
 ### SimpleText Session 4 (ROOM 4)
+
+* (Time for additional talks, depending on demand.)
 
 * **16:40 - 18:00** SimpleText (and JOKER) 2025 planning session:
     * We want to hear from *you*!

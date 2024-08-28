@@ -14,6 +14,7 @@
 * [CLEF 2024 Working Notes](https://ceur-ws.org/Vol-3740/)
   
 ------------------------------------------------------------
+
 ## Monday 9th September 
 
 SimpleText Sessions takes place in **ROOM 5** except for the plenary track overviews.

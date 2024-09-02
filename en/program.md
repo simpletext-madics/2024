@@ -48,7 +48,7 @@ _Overview of the CLEF 2024 SimpleText Task 2: Identify and Explain Difficult Con
 _Overview of the CLEF 2024 SimpleText Task 3: Simplify Scientific Text_, 3147-3162
 ([Paper](https://ceur-ws.org/Vol-3740/paper-307.pdf)).
 
-* 📶 &#xe63e; :signal_strength: **Jennifer D'Souza**, Salomon Kabongo, Hamed Babaei Giglou, Yue Zhang
+* 📶 **Jennifer D'Souza**, Salomon Kabongo, Hamed Babaei Giglou, Yue Zhang
 _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Art in Scholarly Publications_, 3163-3173
 ([Paper](https://ceur-ws.org/Vol-3740/paper-308.pdf)).
 
@@ -73,7 +73,7 @@ _UNIPD@SimpleText2024: A Semi-Manual Approach on Prompting ChatGPT for Extractin
 _UBO NLP Report on the SimpleText track at CLEF 2024_, 3317-3340
 ([Paper](https://ceur-ws.org/Vol-3740/paper-321.pdf)).
 
-* :signal_strength: **Salomon Kabongo**, Jennifer D'Souza, Sören Auer
+* 📶 **Salomon Kabongo**, Jennifer D'Souza, Sören Auer
 _Exploring the Latest LLMs for Leaderboard Extraction_, 3246-3260
 ([Paper](https://ceur-ws.org/Vol-3740/paper-315.pdf)).
   
@@ -86,7 +86,7 @@ _UZH Pandas at SimpleText2024: Multi-Prompt Minimum Bayes Risk with Diverse Prom
 
 ### SimpleText Session 3 (Room 5)
 
-* **11:10 - 11:55** :signal_strength: Invited talk by **Brian Ondov** (NIH/Yale) _"TREC 2024 PABLA: Plain Language Adaptation of Biomedical Abstracts"_ ([Slides](XXX)): 
+* **11:10 - 11:55** 📶 Invited talk by **Brian Ondov** (NIH/Yale) _"TREC 2024 PABLA: Plain Language Adaptation of Biomedical Abstracts"_ ([Slides](XXX)): 
 
 > **Abstract**: The goal of the new TREC 2024 PLABA track is to improve health literacy by adapting biomedical abstracts for the general public using plain language.   The track is coordinated by 
 Brian Ondov (NIH), 
@@ -96,11 +96,11 @@ Dina Demner-Fushman (NIH), and Hoa Dang (NIST).  Details of the track are on the
 
 * **11:55-12:40** CLEF 2024 Participant presentations (10+5 minutes).
 
-* :signal_strength: **Syed Muhammad Ali**, Hammad Sajid, Owais Aijaz, Owais Waheed, Faisal Alvi, Abdul Samad
+* 📶 **Syed Muhammad Ali**, Hammad Sajid, Owais Aijaz, Owais Waheed, Faisal Alvi, Abdul Samad
 _Team Sharingans at SimpleText: Fine-tuned LLM based approach to Scientific Text Simplification_, 3174-3181
 ([Paper](https://ceur-ws.org/Vol-3740/paper-309.pdf)).
 
-* :signal_strength: **Nicholas Largey**, Reihaneh Maarefdoust, Shea Durgin, Behrooz Mansouri
+* 📶 **Nicholas Largey**, Reihaneh Maarefdoust, Shea Durgin, Behrooz Mansouri
 _AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simplification_, 3261-3273
 ([Paper](https://ceur-ws.org/Vol-3740/paper-316.pdf)).
 

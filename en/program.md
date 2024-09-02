@@ -73,9 +73,14 @@ _UNIPD@SimpleText2024: A Semi-Manual Approach on Prompting ChatGPT for Extractin
 _UBO NLP Report on the SimpleText track at CLEF 2024_, 3317-3340
 ([Paper](https://ceur-ws.org/Vol-3740/paper-321.pdf)).
 
-* Tbd
+* Salomon Kabongo, Jennifer D'Souza, Sören Auer
+_Exploring the Latest LLMs for Leaderboard Extraction_, 3246-3260
+([Paper](https://ceur-ws.org/Vol-3740/paper-315.pdf)).
   
-* Tbd
+* Andrianos Michail, Pascal Severin Andermatt, Tobias Fankhauser
+_UZH Pandas at SimpleText2024: Multi-Prompt Minimum Bayes Risk with Diverse Prompts_, 3284-3287
+([Paper](https://ceur-ws.org/Vol-3740/paper-318.pdf)).
+
   
 ## Tuesday 10th September 
 
@@ -95,11 +100,13 @@ Dina Demner-Fushman (NIH), and Hoa Dang (NIST).  Details of the track are on the
 _Team Sharingans at SimpleText: Fine-tuned LLM based approach to Scientific Text Simplification_, 3174-3181
 ([Paper](https://ceur-ws.org/Vol-3740/paper-309.pdf)).
 
+* Nicholas Largey, Reihaneh Maarefdoust, Shea Durgin, Behrooz Mansouri
+_AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simplification_, 3261-3273
+([Paper](https://ceur-ws.org/Vol-3740/paper-316.pdf)).
+
 * Moritz Staudinger, Alaa El-Ebshihy, Annisa Maulida Ningtyas, Florina Piroi, Allan Hanbury
 _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_, 3300-3316
 ([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf)).
-
-* Tbd
   
 ### SimpleText Session 4 (ROOM 4)
 

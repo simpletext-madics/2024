@@ -17,14 +17,14 @@
 
 ## Monday 9th September 
 
-SimpleText Sessions takes place in **ROOM 5** except for the plenary track overviews.
+SimpleText Sessions takes place in **Room 5** except for the plenary track overviews.
 
-### CONFERENCE Session 1 NLU and Document Analysis (ROOM 1) 
+### CONFERENCE Session 1 NLU and Document Analysis (Room 1) 
 
 * **10:00 - 10:20**  Andrianos Michail, Pascal Severin Andermatt and Tobias Fankhauser, _Scientific Text Simplification Using Multi-Prompt Minimum Bayes Risk Decoding_ (SimpleText Best of Labs in CLEF 2023), in:
 Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX)).
 
-### Lab Overviews 1 (ROOM 1)
+### Lab Overviews 1 (Room 1)
 * **11:10 - 12:40**	Lab Overviews [Room 1]: LifeCLEF, Touché, eRisk, BioASQ, **SimpleText**
 
 * **L. Ermakova**, E. SanJuan, S. Huet, H. Azarbonyad, G. M. Di Nunzio, F. Vezzani, J. D’Souza, J. Kamps,
@@ -32,7 +32,7 @@ _Overview of the CLEF 2024 SimpleText track: Improving access to scientific text
 Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX), [Slides](XXX)).
   
 
-### SimpleText Session 1 (ROOM 5)
+### SimpleText Session 1 (Room 5)
 
 * **14:00 - 15:30** CLEF 2024 SimpleText Task Overviews ([Slides](XXX)):
 
@@ -53,7 +53,7 @@ _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Ar
 ([Paper](https://ceur-ws.org/Vol-3740/paper-308.pdf)).
 
 
-### SimpleText Session 2 (ROOM 5)
+### SimpleText Session 2 (Room 5)
 
 * **16:30 - 18:00** CLEF 2024 Participant presentations (10+5 minutes).
 
@@ -84,7 +84,7 @@ _UZH Pandas at SimpleText2024: Multi-Prompt Minimum Bayes Risk with Diverse Prom
   
 ## Tuesday 10th September 
 
-### SimpleText Session 3 (ROOM 5)
+### SimpleText Session 3 (Room 5)
 
 * **11:10 - 11:55** Invited talk by **Brian Ondov** (NIH/Yale) _"TREC 2024 PABLA: Plain Language Adaptation of Biomedical Abstracts"_ ([Slides](XXX)): 
 
@@ -108,7 +108,7 @@ _AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simpl
 _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_, 3300-3316
 ([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf)).
   
-### SimpleText Session 4 (ROOM 4)
+### SimpleText Session 4 (Room 4)
 
 * (Time for additional talks, depending on demand.)
 
@@ -118,12 +118,14 @@ _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_
     * Any ideas or volunteers are welcome!
     * SimpleText roadmap:
         * New data/tasks/setup in 2025?
-        * Active interest to revisit a particular 2024 task?
+           * New corpus of document/paragraph/sentence aligned Cochrane abstracts and plain English summaries
+           * Interest in source attribution? Spotting potential "hallicination" for generative output. Joined task with other tracks?   
+           * Active interest to revisit a particular 2024 task?
         * ???
 
 ## Wednesday 11th September
 
-### Conference Session 3 (ROOM 1): Datasets
+### Conference Session 3 (Room 1): Datasets
 
 * **10:00-10:20** **Artemis Capari**, Hosein Azarbonyad, Georgios Tsatsaronis, Jaap Kamps, Zubair Afzal and Judson Dunham, _KAPR: A dataset for Evaluation of Ranking Models for a Knowledge Acquisition Passage Retrieval Task_ (Conference paper related to SimpleText Task 1), in:
 Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX)). 

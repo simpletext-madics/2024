@@ -36,19 +36,19 @@ Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX),
 
 * **14:00 - 15:30** CLEF 2024 SimpleText Task Overviews ([Slides](XXX)):
 
-* Eric Sanjuan, Stéphane Huet, Jaap Kamps, Liana Ermakova
+* Eric Sanjuan, **Stéphane Huet**, Jaap Kamps, Liana Ermakova
 _Overview of the CLEF 2024 SimpleText Task 1: Retrieve Passages to Include in a Simplified Summary_, 3115-3128
 ([Paper](https://ceur-ws.org/Vol-3740/paper-305.pdf)).
 
-* Giorgio Maria Di Nunzio, Federica Vezzani, Vanessa Bonato, Hosein Azarbonyad, Jaap Kamps, Liana Ermakova
+* **Giorgio Maria Di Nunzio**, Federica Vezzani, Vanessa Bonato, Hosein Azarbonyad, Jaap Kamps, Liana Ermakova
 _Overview of the CLEF 2024 SimpleText Task 2: Identify and Explain Difficult Concepts_, 3129-3146
 ([Paper](https://ceur-ws.org/Vol-3740/paper-306.pdf)).
 
-* Liana Ermakova, Valentin Laimé, Helen McCombie, Jaap Kamps
+* Liana Ermakova, Valentin Laimé, Helen McCombie, **Jaap Kamps**
 _Overview of the CLEF 2024 SimpleText Task 3: Simplify Scientific Text_, 3147-3162
 ([Paper](https://ceur-ws.org/Vol-3740/paper-307.pdf)).
 
-* Jennifer D'Souza, Salomon Kabongo, Hamed Babaei Giglou, Yue Zhang
+* **Jennifer D'Souza**, Salomon Kabongo, Hamed Babaei Giglou, Yue Zhang
 _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Art in Scholarly Publications_, 3163-3173
 ([Paper](https://ceur-ws.org/Vol-3740/paper-308.pdf)).
 
@@ -57,27 +57,27 @@ _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Ar
 
 * **16:30 - 18:00** CLEF 2024 Participant presentations (10+5 minutes).
 
-* Jan Bakker, Göksenin Yüksel, Jaap Kamps
+* Jan Bakker, Göksenin Yüksel, **Jaap Kamps**
 _University of Amsterdam at the CLEF 2024 SimpleText Track_, 3182-3194
 ([Paper](https://ceur-ws.org/Vol-3740/paper-310.pdf)).
 
-* Artemis Capari, Hosein Azarbonyad, Zubair Afzal, Georgios Tsatsaronis
+* **Artemis Capari**, Hosein Azarbonyad, Zubair Afzal, Georgios Tsatsaronis
 _Enhancing Scientific Document Simplification through Adaptive Retrieval and Generative Models_, 3206-3229
 ([Paper](https://ceur-ws.org/Vol-3740/paper-312.pdf)).
 
-* Giorgio Maria Di Nunzio, Elena Gallina, Federica Vezzani
+* **Giorgio Maria Di Nunzio**, Elena Gallina, Federica Vezzani
 _UNIPD@SimpleText2024: A Semi-Manual Approach on Prompting ChatGPT for Extracting Terms and Write Terminological Definitions_, 3230-3237
 ([Paper](https://ceur-ws.org/Vol-3740/paper-313.pdf)).
 
-* Benjamin Vendeville, Liana Ermakova, Pierre De Loor
+* **Benjamin Vendeville**, Liana Ermakova, Pierre De Loor
 _UBO NLP Report on the SimpleText track at CLEF 2024_, 3317-3340
 ([Paper](https://ceur-ws.org/Vol-3740/paper-321.pdf)).
 
-* Salomon Kabongo, Jennifer D'Souza, Sören Auer
+* **Salomon Kabongo**, Jennifer D'Souza, Sören Auer
 _Exploring the Latest LLMs for Leaderboard Extraction_, 3246-3260
 ([Paper](https://ceur-ws.org/Vol-3740/paper-315.pdf)).
   
-* Andrianos Michail, Pascal Severin Andermatt, Tobias Fankhauser
+* **Andrianos Michail**, Pascal Severin Andermatt, Tobias Fankhauser
 _UZH Pandas at SimpleText2024: Multi-Prompt Minimum Bayes Risk with Diverse Prompts_, 3284-3287
 ([Paper](https://ceur-ws.org/Vol-3740/paper-318.pdf)).
 
@@ -96,15 +96,15 @@ Dina Demner-Fushman (NIH), and Hoa Dang (NIST).  Details of the track are on the
 
 * **11:55-12:40** CLEF 2024 Participant presentations (10+5 minutes).
 
-* Syed Muhammad Ali, Hammad Sajid, Owais Aijaz, Owais Waheed, Faisal Alvi, Abdul Samad
+* **Syed Muhammad Ali**, Hammad Sajid, Owais Aijaz, Owais Waheed, Faisal Alvi, Abdul Samad
 _Team Sharingans at SimpleText: Fine-tuned LLM based approach to Scientific Text Simplification_, 3174-3181
 ([Paper](https://ceur-ws.org/Vol-3740/paper-309.pdf)).
 
-* Nicholas Largey, Reihaneh Maarefdoust, Shea Durgin, Behrooz Mansouri
+* **Nicholas Largey**, Reihaneh Maarefdoust, Shea Durgin, Behrooz Mansouri
 _AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simplification_, 3261-3273
 ([Paper](https://ceur-ws.org/Vol-3740/paper-316.pdf)).
 
-* Moritz Staudinger, Alaa El-Ebshihy, Annisa Maulida Ningtyas, Florina Piroi, Allan Hanbury
+* **Moritz Staudinger**, **Alaa El-Ebshihy**, Annisa Maulida Ningtyas, Florina Piroi, Allan Hanbury
 _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_, 3300-3316
 ([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf)).
   

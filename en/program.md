@@ -19,7 +19,7 @@
 
 SimpleText Sessions takes place in **Room 5** except for the plenary track overviews.
 
-### CONFERENCE Session 1 NLU and Document Analysis (Room 1) 
+### Conference Session 1 NLU and Document Analysis (Room 1) 
 
 * **10:00 - 10:20**  Andrianos Michail, Pascal Severin Andermatt and Tobias Fankhauser, _Scientific Text Simplification Using Multi-Prompt Minimum Bayes Risk Decoding_ (SimpleText Best of Labs in CLEF 2023), in:
 Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX)).

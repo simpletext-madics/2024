@@ -110,9 +110,15 @@ _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_
   
 ### SimpleText Session 4 (Room 4)
 
+* **16:40 - 16:55** CLEF 2024 Participant presentations (10+5 minutes).
+
+* 📶 Rowan Mann, Tomislav Mikulandric
+_CLEF 2024 SimpleText Tasks 1-3: Use of Llama-2 for Text Simplification_, 3274-3283
+([Paper](https://ceur-ws.org/Vol-3740/paper-317.pdf)).
+
 * (Time for additional talks, depending on demand.)
 
-* **16:40 - 18:00** SimpleText (and JOKER) 2025 planning session:
+* **17:00 - 18:00** SimpleText (and JOKER) 2025 planning session:
     * We want to hear from *you*!
     * What was great about 2024, and what could we improve for you?
     * Any ideas or volunteers are welcome!

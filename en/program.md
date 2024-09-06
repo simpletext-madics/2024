@@ -110,15 +110,19 @@ _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_
   
 ### SimpleText Session 4 (Room 4)
 
-* **16:40 - 16:55** CLEF 2024 Participant presentations (10+5 minutes).
+* **16:40 - 17:10** CLEF 2024 Participant presentations (10+5 minutes).
 
 * 📶 Rowan Mann, Tomislav Mikulandric
 _CLEF 2024 SimpleText Tasks 1-3: Use of Llama-2 for Text Simplification_, 3274-3283
 ([Paper](https://ceur-ws.org/Vol-3740/paper-317.pdf)).
 
+* 📶 Jenny Ortiz-Zambrano, César Espin-Riofrio, Arturo Montejo-Ráez
+_SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on GPT-4-Turbo for Lexical Complexity Prediction_, 3288-3299
+([Paper](https://ceur-ws.org/Vol-3740/paper-319.pdf)).
+
 * (Time for additional talks, depending on demand.)
 
-* **17:00 - 18:00** SimpleText (and JOKER) 2025 planning session:
+* **17:15 - 18:00** SimpleText (and JOKER) 2025 planning session:
     * We want to hear from *you*!
     * What was great about 2024, and what could we improve for you?
     * Any ideas or volunteers are welcome!

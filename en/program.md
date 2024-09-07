@@ -17,7 +17,7 @@
 
 ## Monday 9th September 
 
-SimpleText Sessions takes place in **Room 5** except for the plenary track overviews.
+SimpleText Sessions takes place in **Room 2** except for the plenary track overviews. 
 
 ### Conference Session 1 NLU and Document Analysis (Room 1) 
 
@@ -32,7 +32,7 @@ _Overview of the CLEF 2024 SimpleText track: Improving access to scientific text
 Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX), [Slides](XXX)).
   
 
-### SimpleText Session 1 (Room 5)
+### SimpleText Session 1 (Room 2)
 
 * **14:00 - 15:30** CLEF 2024 SimpleText Task Overviews ([Slides](XXX)):
 
@@ -53,7 +53,7 @@ _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Ar
 ([Paper](https://ceur-ws.org/Vol-3740/paper-308.pdf)).
 
 
-### SimpleText Session 2 (Room 5)
+### SimpleText Session 2 (Room 2)
 
 * **16:30 - 18:00** CLEF 2024 Participant presentations (10+5 minutes).
 
@@ -84,7 +84,7 @@ _UZH Pandas at SimpleText2024: Multi-Prompt Minimum Bayes Risk with Diverse Prom
   
 ## Tuesday 10th September 
 
-### SimpleText Session 3 (Room 5)
+### SimpleText Session 3 (Room 2)
 
 * **11:10 - 11:55** 📶 Invited talk by **Brian Ondov** (NIH/Yale) _"TREC 2024 PABLA: Plain Language Adaptation of Biomedical Abstracts"_ ([Slides](XXX)): 
 
@@ -108,7 +108,7 @@ _AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simpl
 _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_, 3300-3316
 ([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf)).
   
-### SimpleText Session 4 (Room 4)
+### SimpleText Session 4 (Room 2)
 
 * **16:40 - 17:10** CLEF 2024 Participant presentations (10+5 minutes).
 
@@ -141,6 +141,10 @@ _SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on G
 Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX)). 
 
 ## Thursday 12th September
+
+### Conference Session 4 (Room 1): In-Context Evaluation and Retrieval
+
+* **10:00-10:20**  Annisa Maulida Ningtyas, **Alaa El-Ebshihy**, Florina Piroi and Allan Hanbury, _Improving Laypeople Familiarity with Medical Terms by Informal Medical Entity Linking_ (Conference paper related to SimpleText Task 2), in: Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX)).   
 
 ### Closing and Introduction of CLEF 2025 (Room 1)
 * **17:00 - 18:00** Closing and plans for 2025 (including [slides](XXX) on the CLEF 2025 SimpleText track)

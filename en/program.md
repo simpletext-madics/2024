@@ -39,7 +39,7 @@ Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX),
 
 * **14:00 - 15:30** CLEF 2024 SimpleText Task Overviews ([Slides](XXX)):
 
-* Eric Sanjuan, **Stéphane Huet**, Jaap Kamps, Liana Ermakova
+* **Eric Sanjuan**, Stéphane Huet, Jaap Kamps, Liana Ermakova
 _Overview of the CLEF 2024 SimpleText Task 1: Retrieve Passages to Include in a Simplified Summary_, 3115-3128
 ([Paper](https://ceur-ws.org/Vol-3740/paper-305.pdf)).
 

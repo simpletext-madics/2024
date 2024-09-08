@@ -19,6 +19,7 @@ SimpleText Track sessions takes place in **Room 2** (_IMAG Auditorium_) except f
 
 * Zoom link for track sessions: [Virtual CLEF Room 2](https://uva-live.zoom.us/j/89530993754).
 * If you registered for CLEF (online), the conference will provide the links for plenary sessions.
+
 ## Monday 9th September 
 
 ### Conference Session 1 NLU and Document Analysis (Room 1) 

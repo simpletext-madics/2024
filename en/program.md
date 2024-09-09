@@ -32,7 +32,7 @@ Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX))
 
 * **L. Ermakova**, E. SanJuan, S. Huet, H. Azarbonyad, G. M. Di Nunzio, F. Vezzani, J. D’Souza, J. Kamps,
 _Overview of the CLEF 2024 SimpleText track: Improving access to scientific texts for everyone_, in:
-Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX), [Slides](XXX)).
+Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX), [Slides](slides/CLEF24_SimpleText_Track_Overview.pdf)).
   
 
 ### SimpleText Session 1 (Room 2)

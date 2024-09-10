@@ -107,13 +107,14 @@ _Team Sharingans at SimpleText: Fine-tuned LLM based approach to Scientific Text
 _AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simplification_, 3261-3273
 ([Paper](https://ceur-ws.org/Vol-3740/paper-316.pdf)).
 
-* **Moritz Staudinger**, **Alaa El-Ebshihy**, Annisa Maulida Ningtyas, Florina Piroi, Allan Hanbury
-_AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_, 3300-3316
-([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf)).
   
 ### SimpleText Session 4 (Room 2)
 
 * **16:40 - 17:25** CLEF 2024 Participant presentations (10+5 minutes).
+
+* **Moritz Staudinger**, **Alaa El-Ebshihy**, Annisa Maulida Ningtyas, Florina Piroi, Allan Hanbury
+_AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_, 3300-3316
+([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf)).
 
 * 📶 Rowan Mann, Tomislav Mikulandric
 _CLEF 2024 SimpleText Tasks 1-3: Use of Llama-2 for Text Simplification_, 3274-3283
@@ -123,7 +124,7 @@ _CLEF 2024 SimpleText Tasks 1-3: Use of Llama-2 for Text Simplification_, 3274-3
 _SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on GPT-4-Turbo for Lexical Complexity Prediction_, 3288-3299
 ([Paper](https://ceur-ws.org/Vol-3740/paper-319.pdf)).
 
-* (Time for additional talks, depending on demand.)
+* (Time for additional talks, depending on demand, from JOKER and SimpleText tracks.)
 
 * **17:25 - 18:10** SimpleText (and JOKER) 2025 planning session:
     * We want to hear from *you*!

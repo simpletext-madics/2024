@@ -114,7 +114,7 @@ _AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simpl
 _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_, 3300-3316
 ([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf)).
 
-* 📶 Rowan Mann, Tomislav Mikulandric
+* 📶 Rowan Mann, **Tomislav Mikulandric**
 _CLEF 2024 SimpleText Tasks 1-3: Use of Llama-2 for Text Simplification_, 3274-3283
 ([Paper](https://ceur-ws.org/Vol-3740/paper-317.pdf)).
 

@@ -124,11 +124,11 @@ _SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on G
 
 * **17:25 - 17:40** (Time for additional talks, depending on demand, from JOKER and SimpleText tracks.)
 
-* **17:40 - 18:10** SimpleText (and JOKER) 2025 planning session ([Slides](slides/CLEF24_SimpleText_Track_Planning.pdf)):
+* **17:40 - 18:10** SimpleText (and JOKER) 2025 planning session:
     * We want to hear from *you*!
     * What was great about 2024, and what could we improve for you?
     * Any ideas or volunteers are welcome!
-    * SimpleText roadmap:
+    * SimpleText roadmap ([Slides](slides/CLEF24_SimpleText_Track_Planning.pdf)):
         * New data/tasks/setup in 2025?
            * New corpus of document/paragraph/sentence aligned Cochrane abstracts and plain English summaries ([Slides](slides/Cochrane-auto.pdf)).
            * Interest in source attribution? Spotting potential "hallicination" for generative output. Joined task with other tracks?   

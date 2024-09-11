@@ -41,11 +41,11 @@ Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](XXX),
 
 * **Eric Sanjuan**, Stéphane Huet, Jaap Kamps, Liana Ermakova
 _Overview of the CLEF 2024 SimpleText Task 1: Retrieve Passages to Include in a Simplified Summary_, 3115-3128
-([Paper](https://ceur-ws.org/Vol-3740/paper-305.pdf), [Slides](XXX)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-305.pdf), [Slides](slides/CLEF24_SimpleText_Task_1_Overview.pdf)).
 
 * **Giorgio Maria Di Nunzio**, Federica Vezzani, Vanessa Bonato, Hosein Azarbonyad, Jaap Kamps, Liana Ermakova
 _Overview of the CLEF 2024 SimpleText Task 2: Identify and Explain Difficult Concepts_, 3129-3146
-([Paper](https://ceur-ws.org/Vol-3740/paper-306.pdf), [Slides](XXX)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-306.pdf), [Slides](slides/CLEF24_SimpleText_Task_2_Overview.pdf)).
 
 * Liana Ermakova, Valentin Laimé, Helen McCombie, **Jaap Kamps**
 _Overview of the CLEF 2024 SimpleText Task 3: Simplify Scientific Text_, 3147-3162
@@ -62,11 +62,11 @@ _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Ar
 
 * Jan Bakker, Göksenin Yüksel, **Jaap Kamps**
 _University of Amsterdam at the CLEF 2024 SimpleText Track_, 3182-3194
-([Paper](https://ceur-ws.org/Vol-3740/paper-310.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-310.pdf), [Slides](slides/CLEF24-SimpleText-UvA.pdf)).
 
 * **Artemis Capari**, Hosein Azarbonyad, Zubair Afzal, Georgios Tsatsaronis
 _Enhancing Scientific Document Simplification through Adaptive Retrieval and Generative Models_, 3206-3229
-([Paper](https://ceur-ws.org/Vol-3740/paper-312.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-312.pdf), [Slides](slides/CLEF24-SimpleText-Elsevier.pdf)).
 
 * **Giorgio Maria Di Nunzio**, Elena Gallina, Federica Vezzani
 _UNIPD@SimpleText2024: A Semi-Manual Approach on Prompting ChatGPT for Extracting Terms and Write Terminological Definitions_, 3230-3237

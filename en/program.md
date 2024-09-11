@@ -130,7 +130,7 @@ _SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on G
     * Any ideas or volunteers are welcome!
     * SimpleText roadmap:
         * New data/tasks/setup in 2025?
-           * New corpus of document/paragraph/sentence aligned Cochrane abstracts and plain English summaries
+           * New corpus of document/paragraph/sentence aligned Cochrane abstracts and plain English summaries ([Slides](slides/Cochrane-auto.pdf)).
            * Interest in source attribution? Spotting potential "hallicination" for generative output. Joined task with other tracks?   
            * Active interest to revisit a particular 2024 task?
         * ???

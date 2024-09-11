@@ -124,7 +124,7 @@ _SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on G
 
 * **17:25 - 17:40** (Time for additional talks, depending on demand, from JOKER and SimpleText tracks.)
 
-* **17:40 - 18:10** SimpleText (and JOKER) 2025 planning session:
+* **17:40 - 18:10** SimpleText (and JOKER) 2025 planning session ([Slides](slides/CLEF24_SimpleText_Track_Planning.pdf)):
     * We want to hear from *you*!
     * What was great about 2024, and what could we improve for you?
     * Any ideas or volunteers are welcome!

@@ -116,7 +116,7 @@ _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_
 
 * 📶 Rowan Mann, **Tomislav Mikulandric**
 _CLEF 2024 SimpleText Tasks 1-3: Use of Llama-2 for Text Simplification_, 3274-3283
-([Paper](https://ceur-ws.org/Vol-3740/paper-317.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-317.pdf), [Slides](slides/CLEF24_Tomislav.pdf)).
 
 * 📶 **Jenny Ortiz-Zambrano**, César Espin-Riofrio, Arturo Montejo-Ráez
 _SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on GPT-4-Turbo for Lexical Complexity Prediction_, 3288-3299
@@ -140,13 +140,13 @@ _SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on G
 ### Conference Session 3 (Room 1): Datasets
 
 * **10:00-10:20** **Artemis Capari**, Hosein Azarbonyad, Georgios Tsatsaronis, Jaap Kamps, Zubair Afzal and Judson Dunham, _KAPR: A dataset for Evaluation of Ranking Models for a Knowledge Acquisition Passage Retrieval Task_ (Conference paper related to SimpleText Task 1), in:
-Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_3)). _CLEF 2024 Best Long Paper Award_. 
+Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_3), [Slides](slides/CLEF24_SimpleText_Task_1_Overview.pdf)). _CLEF 2024 Best Long Paper Award_. 
 
 ## Thursday 12th September
 
 ### Conference Session 4 (Room 1): In-Context Evaluation and Retrieval
 
-* **10:00-10:20**  Annisa Maulida Ningtyas, **Alaa El-Ebshihy**, Florina Piroi and Allan Hanbury, _Improving Laypeople Familiarity with Medical Terms by Informal Medical Entity Linking_ (Conference paper related to SimpleText Task 2), in: Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_6)).   
+* **10:00-10:20**  Annisa Maulida Ningtyas, **Alaa El-Ebshihy**, Florina Piroi and Allan Hanbury, _Improving Laypeople Familiarity with Medical Terms by Informal Medical Entity Linking_ (Conference paper related to SimpleText Task 2), in: Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_6), [Slides](slides/CLEF24_TU-Vienna.pdf)).   
 
 ### Closing and Introduction of CLEF 2025 (Room 1)
 * **17:00 - 18:00** Closing and plans for 2025 (including slides on the CLEF 2025 SimpleText track)

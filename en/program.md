@@ -53,7 +53,7 @@ _Overview of the CLEF 2024 SimpleText Task 3: Simplify Scientific Text_, 3147-31
 
 * 📶 **Jennifer D'Souza**, Salomon Kabongo, Hamed Babaei Giglou, Yue Zhang
 _Overview of the CLEF 2024 SimpleText Task 4: SOTA? Tracking the State-of-the-Art in Scholarly Publications_, 3163-3173
-([Paper](https://ceur-ws.org/Vol-3740/paper-308.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-308.pdf), [Slides](slides/SOTA_Task4_Overview.pdf)).
 
 
 ### SimpleText Session 2 (Room 2)

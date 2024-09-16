@@ -25,7 +25,7 @@ SimpleText Track sessions takes place in **Room 2** (_IMAG Auditorium_) except f
 ### Conference Session 1 NLU and Document Analysis (Room 1) 
 
 * **10:00 - 10:20**  **Andrianos Michail**, Pascal Severin Andermatt and Tobias Fankhauser, _Scientific Text Simplification Using Multi-Prompt Minimum Bayes Risk Decoding_ (SimpleText Best of Labs in CLEF 2023), in:
-Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_17)).
+Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_17), [Slides](slides/CLEF23_BotL_UZH_Pandas.pdf)).
 
 ### Lab Overviews 1 (Room 1)
 * **11:10 - 12:40**	Lab Overviews [Room 1]: LifeCLEF, Touché, eRisk, BioASQ, **SimpleText**
@@ -82,7 +82,7 @@ _Exploring the Latest LLMs for Leaderboard Extraction_, 3246-3260
   
 * **Andrianos Michail**, Pascal Severin Andermatt, Tobias Fankhauser
 _UZH Pandas at SimpleText2024: Multi-Prompt Minimum Bayes Risk with Diverse Prompts_, 3284-3287
-([Paper](https://ceur-ws.org/Vol-3740/paper-318.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-318.pdf), [Slides](slides/CLEF23_BotL_UZH_Pandas.pdf)).
 
   
 ## Tuesday 10th September 

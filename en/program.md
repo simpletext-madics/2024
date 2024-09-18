@@ -74,7 +74,7 @@ _UNIPD@SimpleText2024: A Semi-Manual Approach on Prompting ChatGPT for Extractin
 
 * **Benjamin Vendeville**, Liana Ermakova, Pierre De Loor
 _UBO NLP Report on the SimpleText track at CLEF 2024_, 3317-3340
-([Paper](https://ceur-ws.org/Vol-3740/paper-321.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-321.pdf), [Slides](slides/CLEF24-SimpleText-UBO.pdf)).
 
 * 📶 **Salomon Kabongo**, Jennifer D'Souza, Sören Auer
 _Exploring the Latest LLMs for Leaderboard Extraction_, 3246-3260
@@ -120,7 +120,7 @@ _CLEF 2024 SimpleText Tasks 1-3: Use of Llama-2 for Text Simplification_, 3274-3
 
 * 📶 **Jenny Ortiz-Zambrano**, César Espin-Riofrio, Arturo Montejo-Ráez
 _SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on GPT-4-Turbo for Lexical Complexity Prediction_, 3288-3299
-([Paper](https://ceur-ws.org/Vol-3740/paper-319.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-319.pdf), [Slides](slides/CLEF24-SimpleText-SINAI.pdf)).
 
 * **17:25 - 17:40** (Time for additional talks, depending on demand, from JOKER and SimpleText tracks.)
 

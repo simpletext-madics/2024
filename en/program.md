@@ -89,7 +89,7 @@ _UZH Pandas at SimpleText2024: Multi-Prompt Minimum Bayes Risk with Diverse Prom
 
 ### SimpleText Session 3 (Room 2)
 
-* **11:10 - 12:00** 📶 Invited talk by **Brian Ondov** (NIH/Yale) _"The Plain Language Adaptation of Biomedical Abstracts (PLABA) Track at TREC 2024"_ ([Slides](Slides/Ondov-CLEF.pdf)): 
+* **11:10 - 12:00** 📶 Invited talk by **Brian Ondov** (NIH/Yale) _"The Plain Language Adaptation of Biomedical Abstracts (PLABA) Track at TREC 2024"_ ([Slides](slides/Ondov-CLEF.pdf)): 
 
 > **Abstract**: The goal of the new TREC 2024 PLABA track is to improve health literacy by adapting biomedical abstracts for the general public using plain language.   The track is coordinated by 
 Brian Ondov (Yale), 

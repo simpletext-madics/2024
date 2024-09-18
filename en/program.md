@@ -112,7 +112,7 @@ _AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simpl
 
 * **Moritz Staudinger**, **Alaa El-Ebshihy**, Annisa Maulida Ningtyas, Florina Piroi, Allan Hanbury
 _AMATU@Simpletext2024: Are LLMs Any Good for Scientific Leaderboard Extraction?_, 3300-3316
-([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-320.pdf), [Slides](slides/CLEF24_TU-Vienna.pdf)).
 
 * 📶 Rowan Mann, **Tomislav Mikulandric**
 _CLEF 2024 SimpleText Tasks 1-3: Use of Llama-2 for Text Simplification_, 3274-3283
@@ -146,7 +146,7 @@ Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https
 
 ### Conference Session 4 (Room 1): In-Context Evaluation and Retrieval
 
-* **10:00-10:20**  Annisa Maulida Ningtyas, **Alaa El-Ebshihy**, Florina Piroi and Allan Hanbury, _Improving Laypeople Familiarity with Medical Terms by Informal Medical Entity Linking_ (Conference paper related to SimpleText Task 2), in: Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_6), [Slides](slides/CLEF24_TU-Vienna.pdf)).   
+* **10:00-10:20**  Annisa Maulida Ningtyas, **Alaa El-Ebshihy**, Florina Piroi and Allan Hanbury, _Improving Laypeople Familiarity with Medical Terms by Informal Medical Entity Linking_ (Conference paper related to SimpleText Task 2), in: Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_6)).   
 
 ### Closing and Introduction of CLEF 2025 (Room 1)
 * **17:00 - 18:00** Closing and plans for 2025 (including slides on the CLEF 2025 SimpleText track)

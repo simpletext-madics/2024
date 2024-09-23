@@ -97,7 +97,7 @@ Dina Demner-Fushman (NIH), and Hoa Dang (NIST).  Details of the track are on the
 
 * 📶 **Syed Muhammad Ali**, Hammad Sajid, Owais Aijaz, Owais Waheed, Faisal Alvi, Abdul Samad
 _Team Sharingans at SimpleText: Fine-tuned LLM based approach to Scientific Text Simplification_, 3174-3181
-([Paper](https://ceur-ws.org/Vol-3740/paper-309.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-309.pdf), [Slides](slides/CLEF24-SimpleText-Sharingans.pdf)).
 
 * 📶 **Nicholas Largey**, Reihaneh Maarefdoust, Shea Durgin, Behrooz Mansouri
 _AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simplification_, 3261-3273

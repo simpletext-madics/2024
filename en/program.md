@@ -76,7 +76,7 @@ _UBO NLP Report on the SimpleText track at CLEF 2024_, 3317-3340
 
 * 📶 **Salomon Kabongo**, Jennifer D'Souza, Sören Auer
 _Exploring the Latest LLMs for Leaderboard Extraction_, 3246-3260
-([Paper](https://ceur-ws.org/Vol-3740/paper-315.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-315.pdf), [Slides](slides/CLEF24-SimpleText-LUH.pdf)).
   
 * **Andrianos Michail**, Pascal Severin Andermatt, Tobias Fankhauser
 _UZH Pandas at SimpleText2024: Multi-Prompt Minimum Bayes Risk with Diverse Prompts_, 3284-3287

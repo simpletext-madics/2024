@@ -101,7 +101,7 @@ _Team Sharingans at SimpleText: Fine-tuned LLM based approach to Scientific Text
 
 * 📶 **Nicholas Largey**, Reihaneh Maarefdoust, Shea Durgin, Behrooz Mansouri
 _AIIR Lab Systems for CLEF 2024 SimpleText: Large Language Models for Text Simplification_, 3261-3273
-([Paper](https://ceur-ws.org/Vol-3740/paper-316.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-316.pdf), [Slides](slides/CLEF24-SimpleText-AIIR.pdf)).
 
   
 ### SimpleText Session 4 (Room 2)

@@ -68,7 +68,7 @@ _Enhancing Scientific Document Simplification through Adaptive Retrieval and Gen
 
 * **Giorgio Maria Di Nunzio**, Elena Gallina, Federica Vezzani
 _UNIPD@SimpleText2024: A Semi-Manual Approach on Prompting ChatGPT for Extracting Terms and Write Terminological Definitions_, 3230-3237
-([Paper](https://ceur-ws.org/Vol-3740/paper-313.pdf)).
+([Paper](https://ceur-ws.org/Vol-3740/paper-313.pdf), [Slides](slides/CLEF24-SimpleText-UniPD.pdf)).
 
 * **Benjamin Vendeville**, Liana Ermakova, Pierre De Loor
 _UBO NLP Report on the SimpleText track at CLEF 2024_, 3317-3340

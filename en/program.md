@@ -138,7 +138,7 @@ _SINAI Participation in SimpleText Task 2 at CLEF 2024: Zero-shot Prompting on G
 ### Conference Session 3 (Room 1): Datasets
 
 * **10:00-10:20** **Artemis Capari**, Hosein Azarbonyad, Georgios Tsatsaronis, Jaap Kamps, Zubair Afzal and Judson Dunham, _KAPR: A dataset for Evaluation of Ranking Models for a Knowledge Acquisition Passage Retrieval Task_ (Conference paper related to SimpleText Task 1), in:
-Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_3), [Slides](slides/CLEF24_SimpleText_Task_1_Overview.pdf)). _CLEF 2024 Best Long Paper Award_. 
+Proceedings of CLEF'24, LNCS Volume 14958 + 14959, Springer, 2024 ([Paper](https://doi.org/10.1007/978-3-031-71736-9_3), [Slides](slides/CLEF24_Conf_Capari.pdf)). _CLEF 2024 Best Long Paper Award_. 
 
 ## Thursday 12th September
 
